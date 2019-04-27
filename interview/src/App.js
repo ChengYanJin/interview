@@ -16,7 +16,7 @@ function App() {
   return (
     <div className="app">
       <div className="container">
-        <img src={logo} className="logo" />
+        <img src={logo} className="toto" />
         <div className="list">
           {persons.map(i => (
             <li>
