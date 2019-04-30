@@ -27,9 +27,9 @@ code {
 }
 
 .list {
-  padding-left: 50px;
+  padding-left: 78px;
   width: 150px;
-  width: 300px;
+  max-width: 300px;
 }
 
 .button {

@@ -17,7 +17,7 @@ function App() {
     <div className="app">
       <div className="container">
         <img src={logo} className="toto" />
-        <div className="list">
+        <div style={{ listStyle: "none" }} className="list">
           {persons.map(i => (
             <li>
               {i.first_name} {i.last_name}
