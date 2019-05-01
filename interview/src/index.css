@@ -30,6 +30,7 @@ code {
   padding-left: 78px;
   width: 150px;
   max-width: 300px;
+  list-style: none;
 }
 
 .button {
